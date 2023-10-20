@@ -1,0 +1,14 @@
+---Komentarz
+Test: GSM, 30sek, SNR>20dB 
+Target: GSM, 30sek, SNR>20dB
+UBM: GSM, 30sek, SNR>20dB
+---
+Parametry              MFCC, logE, Delta, Delta-Delta
+Liczba parametrow              19
+Rzad GMM               512
+Maska parametrow     0-18,20-50
+Sciezka test     D:\PolLingM\gsm\test30gsm\1_M1_A.wav D:\Badania\e9b\data\mfcc\test\1_M1_A.mfc
+Sciezka target     D:\PolLingM\gsm\target30gsm\1_M1_A.wav D:\Badania\e9b\data\mfcc\target\1_M1_A.mfc
+Sciezka UBM     D:\PolLingM\gsm\ubm_gsm\1_M1.wav D:\Badania\e9b\data\mfcc\ubm\1_M1.mfc
+Zmiennosc wewnatrzosobnicza     Zmiennosc wewnatrzosobnicza:  1754
+Zmiennosc miedzyosobnicza     Zmiennosc miedzyosobnicza:  25446
