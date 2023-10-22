@@ -58,8 +58,8 @@ def EER_DET_conf(clients, impostors, OPvalue, pas0):
 
 if __name__ == "__main__":
     
-    impostor = np.loadtxt(r'C:\badania\DETsrc\e9b\im_new.sc')
-    clients = np.loadtxt(r'C:\badania\DETsrc\e9b\tr_new.sc')
+    impostor = np.loadtxt(r'/e9b/im_new.sc')
+    clients = np.loadtxt(r'/e9b/tr_new.sc')
 
     OPvalue = 0.5
     pas0=10000

@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def ppndf(cum_prob):
     
     SPLIT =  0.42

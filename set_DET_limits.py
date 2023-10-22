@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def set_DET_limits(Pmiss_min, Pmiss_max, Pfa_min, Pfa_max):   
     
     """"
